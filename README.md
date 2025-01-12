@@ -45,7 +45,7 @@ The analysis uses **Exploratory Data Analysis (EDA)** techniques, feature engine
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yourusername/stock-index-data-analysis.git](https://github.com/LoveselvanGit/stock-index-data-analysis.git)
+   git clone [[https://github.com/yourusername/stock-index-data-analysis.git](https://github.com/LoveselvanGit/stock-index-data-analysis.git](https://github.com/LoveselvanGit/stock-index-data-analysis.git))
    pip install pandas matplotlib seaborn numpy scipy
    jupyter notebook DSC530_FINAL_PROJECT_MAHALINGAM.ipynb
 
